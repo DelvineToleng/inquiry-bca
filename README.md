@@ -1,2 +1,2 @@
-# inquiry-bca
+# inquiry_bca
 Inquiry transaction bca
